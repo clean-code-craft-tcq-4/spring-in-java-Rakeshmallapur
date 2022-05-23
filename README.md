@@ -1,4 +1,5 @@
 # Statistics Computer
+The code works after aletring in local machine
 
 This project uses Maven and JUnit to build and test.
 
